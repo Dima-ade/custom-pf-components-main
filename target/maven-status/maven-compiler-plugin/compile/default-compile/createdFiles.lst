@@ -1,0 +1,4 @@
+com\example\listener\MyLifeCycleListener.class
+com\example\component\MyNotificationBar$PropertyKeys.class
+com\example\renderer\MyNotificationBarRenderer.class
+com\example\component\MyNotificationBar.class
