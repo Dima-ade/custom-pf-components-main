@@ -1,4 +1,7 @@
-# custom-pf-components
-Custom Primefaces components
+Custom Primefaces component
 
-Code Repository from https://medium.com/@ivanj.sanchez90/create-your-custom-primefaces-component-666b073faa5c 
+https://medium.com/@ivanj.sanchez90/create-your-custom-primefaces-component-666b073faa5c
+
+The application was deployed on Glassfish server
+
+http://localhost:8080/custom-jsf-components/index.xhtml
