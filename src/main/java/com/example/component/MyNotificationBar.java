@@ -62,5 +62,5 @@ public class MyNotificationBar extends NotificationBarBase {
     public boolean isMaximizable() {
         return (Boolean) getStateHelper().eval(PropertyKeys.maximizable, false);
     }
-    
+
 }
